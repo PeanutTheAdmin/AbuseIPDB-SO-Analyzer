@@ -1,0 +1,7 @@
+{
+    "name": "AbuseIPDB IP Analyzer",
+    "version": "0.1",
+    "author": "Jacob Cavaness",
+    "description": "This analyzer queries AbuseIPDB for IP abuse.",
+    "supportedTypes" :  ["ip"]
+  }
